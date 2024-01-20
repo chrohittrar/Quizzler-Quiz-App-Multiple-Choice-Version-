@@ -1,9 +1,8 @@
 //
-//  Question.swift
-//  Quizzler-iOS13
+//  ViewController.swift
+//  Quizzler-iOS
 //
-//  Created by Angela Yu on 07/08/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Rohit Kumar on 12/07/2023.
 //
 
 import Foundation
